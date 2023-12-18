@@ -1,9 +1,12 @@
 @charset "UTF-8";
 
-body{
+body {
     font-family: 'Noto Sans JP', '游明朝 Medium',  sans-serif;
     font-size: 15px;
     border-top: 20px solid #79a1b1 !important;
+}
+.pop {
+    font-family:  'Poppins', sans-serif;
 }
 .a {
     text-decoration: none;
@@ -16,8 +19,10 @@ body{
     margin-bottom: 30px;
 }
 .logo p {
+    font-size: 20px;
+    font-weight: 700;
     margin-left: 5px;
-    margin-top: 3px;
+
 }
 .logo img {
     display: inline-block;
